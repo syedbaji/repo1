@@ -3,7 +3,7 @@
 
  Directory of E:\projects\gitProject
 
-13-05-2017  23:43    <DIR>          .
+13-05-2017  23:43    <D         .
 13-05-2017  23:43    <DIR>          ..
 13-05-2017  23:43                 0 test.txt
                1 File(s)              0 bytes
